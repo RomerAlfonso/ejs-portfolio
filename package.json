@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/RomerAlfonso/portfolio.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/RomerAlfonso/portfolio/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/RomerAlfonso/portfolio#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "config.json": "0.0.4",
